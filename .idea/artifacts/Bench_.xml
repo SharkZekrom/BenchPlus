@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Bench+">
+    <output-path>$USER_HOME$/OneDrive</output-path>
+    <root id="archive" name="Bench+.jar">
+      <element id="module-output" name="Bench+" />
+    </root>
+  </artifact>
+</component>

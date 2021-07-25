@@ -1,0 +1,9 @@
+name: Bench
+main: be.shark_zekrom.bench.Main
+version: 0.1
+api-version: 1.13
+author: shark_zekrom
+description: Bench+
+commands:
+  bench+:
+    description: créer des bancs facilement
